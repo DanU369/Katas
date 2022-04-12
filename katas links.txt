@@ -1,3 +1,12 @@
-https://www.codewars.com/kata/5700c9acc1555755be00027e/train/java    (ALL INCLUSIVE)
+https://www.codewars.com/kata/5700c9acc1555755be00027e/train/java    (ALL INCLUSIVE) (7)
 
-https://www.codewars.com/kata/57f8ee485cae443c4d000127/train/java    (SPACIFY)
+https://www.codewars.com/kata/57f8ee485cae443c4d000127/train/java    (SPACIFY) (7)
+
+https://www.codewars.com/kata/585b1fafe08bae9988000314/train/java    (DIGITS EXPLOSION) (7)
+
+https://www.codewars.com/kata/583203e6eb35d7980400002a/train/java    (COUNT THE SMILEY FACES) (6)
+
+https://www.codewars.com/kata/587309155cfd6b9fb60000a0/train/java    (UNWANTED DOLARS) (6)
+
+
+
